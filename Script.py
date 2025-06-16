@@ -3,7 +3,7 @@ class script(object):
     
 🔋 ᴡᴏʀᴋɪɴɢ ᴜɴᴅᴇʀ - <a href=https://t.me/x7islandDevs>@x𝟽ɪsʟᴀɴᴅᴅᴇᴠs</a></b>"""
 
-    CAPTION = """<b>{file_caption}</b>""" 
+    CAPTION = """<b>{file_name}</b>""" 
 
     SHORTENER_API_MESSAGE = """<b>ᴛᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
